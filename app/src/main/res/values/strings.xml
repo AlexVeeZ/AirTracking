@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">AirTracking</string>
+    <string name="moscow_cargo">ООО «Москва Карго»</string>
+    <string name="sheremetievo_cargo">АО «Шереметьево-Карго»</string>
+    <string name="domodedovo_cargo">ООО «Домодедово Карго»</string>
+    <string name="vnukovo_cargo">ООО «Внуково-Карго»</string>
+    <string name="airbridge_cargo">ООО «Авиакомпания ЭйрБриджКарго»</string>
+    <string name="swiss_airlines">Swiss Airlines</string>
+    <string name="turkish_airlines">Turkish Airlines</string>
+    <string name="aeroflot_airlines">ПАО «Аэрофлот»</string>
+    <string name="emirates_airlines">Emirates Airlines</string>
+
 </resources>
